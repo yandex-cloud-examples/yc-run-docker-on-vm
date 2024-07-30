@@ -1,5 +1,3 @@
-# Название сценария
+# Запуск Docker-образа на виртуальной машине
 
-Описание сценария и инструкция по его применению.
-
-Для практических руководств обязательна ссылка на документацию.
+Запуск Docker-образа на ВМ Yandex Compute Cloud с использованием реестра Yandex Container Registry с помощью Terraform. Подробнее в [документации](https://yandex.cloud/ru/docs/container-registry/tutorials/run-docker-on-vm/).
